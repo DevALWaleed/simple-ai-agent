@@ -1,0 +1,53 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+
+# Distribution / packaging
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python testing
+nosetests.xml
+coverage.xml
+*.cover
+*.hypothesis/
+*.tox/
+*.nox/
+.coverage
+
+# mypy
+.mypy_cache/
+
+# pytest
+.cache/
+
+# Local configuration files
+.local/
+
+# Uvicorn specific (if needed)
+*.log
+*.pid
