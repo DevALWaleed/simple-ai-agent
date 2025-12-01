@@ -10,7 +10,7 @@ env/
 .venv/
 .ENV/
 *.env
-uv.lock
+*.lock
 
 # Distribution / packaging
 *.egg-info/
